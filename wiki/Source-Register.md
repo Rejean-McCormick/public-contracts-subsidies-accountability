@@ -1,0 +1,22 @@
+# Primary Source Register
+
+These official documents support specific facts in the linked case pages. Most are published in French; the English descriptions are not official translations.
+
+- **saaq** — [Quebec Auditor General — SAAQclic, February 2025](https://www.vgq.qc.ca/fr/communique/C2025-1)
+- **battery** — [Quebec Auditor General — Battery Sector Assistance, June 2026](https://www.vgq.qc.ca/Fichiers/Publications/rapport-annuel/219/VGQ_juin2026_ch2.pdf)
+- **arrive** — [Auditor General of Canada — ArriveCAN, February 2024](https://www.canada.ca/fr/verificateur-general/notre-travail/rapports-daudit/parl-oag-202402-01-f.html)
+- **gc** — [Public Services and Procurement Canada — Federal Contractor Information, December 2024](https://www.canada.ca/fr/services-publics-approvisionnement/organisation/transparence/documents-information/comite-permanent-comptes-publics/2024-12-12.html)
+- **mck** — [Auditor General of Canada — Professional Services Contracts, June 2024](https://www.canada.ca/fr/verificateur-general/notre-travail/rapports-daudit/parl-oag-202406-05-f.html)
+- **phoenix** — [Treasury Board — Phoenix Expenditures, 2024–25](https://www.canada.ca/fr/secretariat-conseil-tresor/organisation/rapports/rapport-resultats-ministeriels-secretariat-conseil-tresor-canada-2024-2025/depenses-liees-systeme-paye-phenix.html)
+- **cdpq** — [CDPQ — 2008 Annual Report](https://www.cdpq.com/sites/default/files/medias/pdf/fr/ra/ra2008_rapport_annuel_fr.pdf)
+- **hydro** — [Hydro-Québec — 2025 Annual Report](https://www.hydroquebec.com/data/documents-donnees/pdf/hq-rapport-annuel-2025-francais.pdf)
+- **centraide** — [Centraide of Greater Montreal — 2024–25 Audited Statements](https://www.centraide-mtl.org/wp-content/uploads/2025/06/Etats-Financiers-2024-2025.pdf)
+- **maritime** — [Government of Canada — Maritime Launch Investment, March 2026](https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2026/03/le-ministre-mcguinty-annonce-des-investissements-strategiques-dans-la-capacite-souveraine-de-lancement-spatial.html)
+
+## Verification protocol
+Record publication date, exact page, table, reporting entity, currency and accounting basis. Check subsequent revisions. A source supports only the specific facts it contains.
+
+## Research leads
+Some case pages lack a primary source link and are marked as research leads. Do not turn a lead into a monetary or legal conclusion without documentary support.
+
+[[Home]] · [[Case Index|Case-Index]]
